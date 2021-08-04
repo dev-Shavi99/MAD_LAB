@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD_Tute_02</string>
+    <string name="text_value">Enter Temp</string>
+    <string name="button_submit">submit</string>
+    <string name="btn_farenheight">Farenheight</string>
+    <string name="btn_celcius">Celsius</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="txt_answer" />
+</resources>
